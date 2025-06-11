@@ -6,7 +6,7 @@ import reactRefresh from 'eslint-plugin-react-refresh';
 
 /** @type { import('eslint').Linter.Config[] } */
 export default [
-  { ignores: [ 'dist', '*.json', 'eslint.config.js' ] },
+  { ignores: [ 'dist', '*.json', '*.config.js' ] },
   {
     files: [ '**/*.{js,jsx}' ],
     languageOptions: {

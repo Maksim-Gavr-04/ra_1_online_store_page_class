@@ -6,10 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint . --fix",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "eslint . --fix"
   },
   "repository": "https://github.com/Maksim-Gavr-04/ra_1_online_store_page_class",
+  "homepage": "https://maksim-gavr-04.github.io/ra_1_online_store_page_class",
   "author": "Maksim-Gavr-04",
   "license": "MIT",
   "dependencies": {
